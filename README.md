@@ -1,7 +1,7 @@
-# Hi, I'm yeqihang 👋
+# Hi, I'm 叶琦航 👋
 
 Energy & Power Engineering M.S. @ HIT
-
+本硕就读于哈尔滨工业大学
 Research / Engineering Interests
 
 ⚡ Energy Systems
