@@ -29,7 +29,7 @@ Dynamic System Modeling & Control
 ---
 
 ## Skills
-
-Python      
-MATLAB        
-ANSYS      
+Languages:
+Python / MATLAB
+Engineering:
+Abaqus / ANSYS
