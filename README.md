@@ -1,4 +1,4 @@
-# hit-yeqihang
+# eheninebode-afk
 # Hi, I'm yeqihang 👋
 
 Energy & Power Engineering M.S. @ HIT
