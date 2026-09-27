@@ -2,7 +2,6 @@
 
 # 叶琦航
 
-<img src="avatar.png" alt="叶琦航" width="150" align="right" />
 
 **能源与动力工程 · 哈尔滨工业大学（C9 / 985 / 双一流）**
 
