@@ -83,13 +83,10 @@
 - 大学英语四级（CET-4）
 
 ---
-
+## Skills
+Python / COMSOL / MATLAB / Abaqus / ANSYS
 ## 自我评价
 
 可以独立完成工作，也可以团体协作，同时有较强的沟通能力和抗压能力，具备对新事物的快速学习能力。
 
-## Skills
-Languages:
-Python / MATLAB
-Engineering:
-Abaqus / ANSYS
+
