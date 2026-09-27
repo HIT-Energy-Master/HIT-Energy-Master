@@ -20,6 +20,8 @@
 
 **主修课程：** 流体力学、热力学、传热学、材料力学、空气动力学、燃气涡轮与动力原理、流体机械原理
 
+Skills：Python / COMSOL / MATLAB / Abaqus / ANSYS
+
 ---
 
 ## 校园工作
@@ -83,8 +85,7 @@
 - 大学英语四级（CET-4）
 
 ---
-## Skills
-Python / COMSOL / MATLAB / Abaqus / ANSYS
+
 ## 自我评价
 
 可以独立完成工作，也可以团体协作，同时有较强的沟通能力和抗压能力，具备对新事物的快速学习能力。
