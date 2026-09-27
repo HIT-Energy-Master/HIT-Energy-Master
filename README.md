@@ -18,7 +18,7 @@
 
 **主修课程：** 流体力学、热力学、传热学、材料力学、空气动力学、燃气涡轮与动力原理、流体机械原理
 
-Skills：Python / COMSOL / MATLAB / Abaqus / ANSYS
+技能：Python / COMSOL / MATLAB / Abaqus / ANSYS
 
 ---
 
